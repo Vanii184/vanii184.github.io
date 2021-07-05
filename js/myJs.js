@@ -1,4 +1,4 @@
-const textConfig = {
+const textConfig = {To Anh Hiếuuu}
   text1: "He luu anh iuu!",
   text2: "Em có điều này muốn hỏi anh nhớ phải trả lời thật lòng nhaaa.",
   text3: "Anh yêu em siêu nhiều có phải không nào :>>",
