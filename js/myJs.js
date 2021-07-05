@@ -1,4 +1,4 @@
-const textConfig = { 
+const textConfig = {
   text1: "À nhon anh iuu!! <3",
   text2: "Em có điều này muốn hỏi anh nhớ phải trả lời thật lòng nhaaa.",
   text3: "Anh yêu em siêu nhiều có phải không nào :>>",
@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Yêu em nhất thế giann <3",
   text7: "Nói lí do anh iu em đi :vvvv",
   text8: "Gửi cho emm <3",
-  text9: "Vì em siêu đáng iu, siêu hiền và siêu xinhh :>>>",
+  text9: "Vì em đáng eo cựccc :>>>",
   text10: "Em biết mà ^^ Yêu anh x300.000",
   text11:
     "Anh trả lời xong thì đã là chồng của em rùi nhó ^^ Chờ gì mà h yêu thương e thiệt nhiều nèee <3 Chồng iu",
